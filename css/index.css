@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+    width: 1280px;
+    height: 1399px;
+}
+
+.all {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    padding: 0px 0px 0px 0px;
+    margin: 40px 40px 40px 40px;
+}
+/* main */
+.main {
+margin: 142px 99px 40px 0px ;
+}
+
+.main__head {
+    background-color: aqua;
+}
+
+.main__projects {
+    background-color: rgb(200, 255, 0);
+}
+
+.main__work {
+    background-color: rgb(255, 0, 0);
+}
+
+.main__education {
+    background-color: rgb(255, 0, 242);
+}
+/* end main */
+/* right s */
+.aside {
+    background-color: #1E2939;
+    margin: 40px 88px 40px 40px;
+    width: 370px;
+    height: auto;
+    color:white;
+}
+
+.aside__img {
+    margin: 40px 0px 0px 0px;
+
+}
+.aside__all{
+    padding: 0px auto;
+ text-align: center;
+}
+/* end right */
