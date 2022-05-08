@@ -12,26 +12,20 @@ body {
     padding: 0px 0px 0px 0px;
     margin: 40px 40px 40px 40px;
 }
+
 /* main */
 .main {
-margin: 142px 99px 40px 0px ;
+    margin: 142px 99px 40px 0px;
 }
 
-.main__head {
-  
-}
+.main__head {}
 
-.main__projects {
-   
-}
+.main__projects {}
 
-.main__work {
- 
-}
+.main__work {}
 
-.main__education {
+.main__education {}
 
-}
 /* end main */
 /* right s */
 .aside {
@@ -39,61 +33,71 @@ margin: 142px 99px 40px 0px ;
     margin: 40px 88px 40px 40px;
     width: 370px;
     height: auto;
-    color:white;
+    color: white;
 }
 
 .aside__img {
     margin: 40px 0px 0px 0px;
 
 }
-.aside__all{
-    padding: 0px auto;
- text-align: center;
+
+.aside__all {
+    text-align: center;
 }
-.aside__h3{
-    Font-style: Bold;
-Font-size: 22px;
-Line-height: 27px;
-Line-height: 100%;
-text-Align: Left;
-Vertical-align: Top;
+
+.aside__h3 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    line-height: 100%;
+    text-Align: left;
+    vertical-align: top;
 
 }
-.aside__contacts{
+
+.aside__contacts {
     margin: 51px 147px 47px 40px;
 }
-.aside__techskill{
+
+.aside__techskill {
     padding: 0;
     margin-left: 17px;
 }
-.aside__contacts, 
+
+.aside__contacts,
 .aside__techskill,
 .aside__softskill {
     margin: 0 0 0 40px;
 }
+
 span {
-    Font-style: Bold;
-Font-size: 14px;
-Line-height: 24px;
-Line-height: 141%;
-text-Align: Left;
-Vertical-align: Top;
+    font-weight: bold;
+    Font-size: 14px;
+    Line-height: 24px;
+    Line-height: 141%;
+    text-Align: left;
+    Vertical-align: top;
 }
-li{
-    Font-style: Regular;
-Font-size: 14px;
-Line-height: 24px;
-Line-height: 141%;
-text-Align: Left;
-Vertical-align: Top;
+
+li {
+    font-style:normal;
+    font-size: 14px;
+    line-height: 24px;
+    line-height: 141%;
+    text-align: left;
+    vertical-align: top;
 }
-.aside__link{
-color: white;
+
+.aside__link {
+    color: white;
 }
-.aside__li{
-color:orange;
+
+.aside__li {
+    color: orange;
 }
-.aside__li-text{
-color:white;
+
+.aside__li-text {
+    color: white;
 }
+
 /* end right */
