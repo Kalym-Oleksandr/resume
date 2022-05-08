@@ -38,7 +38,8 @@ body {
 
 .aside__img {
     margin: 40px 0px 0px 0px;
-
+    width: 370px;
+    height: auto;
 }
 
 .aside__all {
@@ -80,7 +81,7 @@ span {
 }
 
 li {
-    font-style:normal;
+    font-style: normal;
     font-size: 14px;
     line-height: 24px;
     line-height: 141%;
