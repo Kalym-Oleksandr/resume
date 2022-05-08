@@ -18,19 +18,19 @@ margin: 142px 99px 40px 0px ;
 }
 
 .main__head {
-    background-color: aqua;
+  
 }
 
 .main__projects {
-    background-color: rgb(200, 255, 0);
+   
 }
 
 .main__work {
-    background-color: rgb(255, 0, 0);
+ 
 }
 
 .main__education {
-    background-color: rgb(255, 0, 242);
+
 }
 /* end main */
 /* right s */
@@ -49,5 +49,51 @@ margin: 142px 99px 40px 0px ;
 .aside__all{
     padding: 0px auto;
  text-align: center;
+}
+.aside__h3{
+    Font-style: Bold;
+Font-size: 22px;
+Line-height: 27px;
+Line-height: 100%;
+text-Align: Left;
+Vertical-align: Top;
+
+}
+.aside__contacts{
+    margin: 51px 147px 47px 40px;
+}
+.aside__techskill{
+    padding: 0;
+    margin-left: 17px;
+}
+.aside__contacts, 
+.aside__techskill,
+.aside__softskill {
+    margin: 0 0 0 40px;
+}
+span {
+    Font-style: Bold;
+Font-size: 14px;
+Line-height: 24px;
+Line-height: 141%;
+text-Align: Left;
+Vertical-align: Top;
+}
+li{
+    Font-style: Regular;
+Font-size: 14px;
+Line-height: 24px;
+Line-height: 141%;
+text-Align: Left;
+Vertical-align: Top;
+}
+.aside__link{
+color: white;
+}
+.aside__li{
+color:orange;
+}
+.aside__li-text{
+color:white;
 }
 /* end right */
